@@ -1,0 +1,16 @@
+name: Melanie Baljko
+bio: my bio
+avatar: ./avatar.png
+
+links:
+  - name: GitHub
+    icon: github
+    url: https://github.com/mbaljko
+  - name: Twitter
+    icon: twitter
+    url: https://twitter.com/yourhandle
+
+# Optional extras
+location: Toronto, Canada
+theme:
+  accentColor: indigo

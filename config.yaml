@@ -4,12 +4,12 @@ avatar: ./avatar.png
 
 site:
   title: "My Quartz Site"
-  base_url: "https://mbaljko.github.io/my-quartz/"
+  base_url: "https://mbaljko.github.io/my-quartz"
 
 links:
   - name: GitHub
     icon: github
-    url: https://mbaljko.github.io/my-quartz/
+    url: https://mbaljko.github.io/my-quartz
   - name: Twitter
     icon: twitter
     url: https://twitter.com/yourhandle

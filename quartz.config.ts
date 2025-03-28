@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import markdownIt from "markdown-it"
 
 /**
  * Quartz 4 Configuration
@@ -92,6 +93,12 @@ const config: QuartzConfig = {
       Plugin.CustomOgImages(),
     ],
   },
+}
+
+export const markdownConfig = {
+  markdownPlugins: [
+    [markdownIt, { breaks: true }],
+  ],
 }
 
 export default config

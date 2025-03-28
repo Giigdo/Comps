@@ -2,6 +2,9 @@ name: Melanie Baljko
 bio: my bio
 avatar: ./avatar.png
 
+site:
+  base_url: "https://mbaljko.github.io/my-quartz/"
+
 links:
   - name: GitHub
     icon: github
@@ -13,4 +16,3 @@ links:
 # Optional extras
 location: Toronto, Canada
 theme:
-  accentColor: indigo

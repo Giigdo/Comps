@@ -93,6 +93,9 @@ const config: QuartzConfig = {
       Plugin.CustomOgImages(),
     ],
   },
+  markdownPlugins: [
+    [markdownIt, { breaks: true }],
+  ]
 }
 
 /*export const markdownConfig = {

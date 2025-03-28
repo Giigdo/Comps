@@ -4,5 +4,6 @@ title: A Test Website
 
 # Welcome to my page
 
-lorem ipsum
-need to troublehsoot line endings.
+lorem ipsum. There are two spaces following the period here.    
+and here is another line. There are no spaces following the period.
+And here is a third line

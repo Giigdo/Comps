@@ -2,10 +2,7 @@
 title: A Test Website
 ---
 
-# Welcome
+# Welcome to my page
 
-lorem ipsum m'f-ers.
-here is another line.
-and a third line.
-and a fourth line.  why are new lines not showing up?
-omg another line
+lorem ipsum
+need to troublehsoot line endings.

@@ -95,10 +95,10 @@ const config: QuartzConfig = {
   },
 }
 
-export const markdownConfig = {
+/*export const markdownConfig = {
   markdownPlugins: [
     [markdownIt, { breaks: true }],
   ],
-}
+}*/
 
 export default config

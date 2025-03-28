@@ -6,4 +6,4 @@ title: A Test Website
 
 lorem ipsum. There are two spaces following the period here.    
 and here is another line. There are no spaces following the period.
-And here is a third line
+And here is a third line.

@@ -3,6 +3,7 @@ bio: my bio
 avatar: ./avatar.png
 
 site:
+title: "My Quartz Site"
   base_url: "https://mbaljko.github.io/my-quartz/"
 
 links:

@@ -1,8 +1,7 @@
 ---
-title: A Test Website
+title: This is property 'title'
 ---
-
-# Welcome to my page
+# This is Level 1 heading on index
 
 lorem ipsum. There are two spaces following the period here.    
 and here is another line. There are no spaces following the period.

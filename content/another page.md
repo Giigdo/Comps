@@ -1,1 +1,1 @@
-This is another page.
+This is another page. Pages that are not explicitly linked to fail to show up in the explorer.

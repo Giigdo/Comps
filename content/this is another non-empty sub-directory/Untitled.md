@@ -1,1 +1,0 @@
-an untitled bare-bones note just so the directory is not empty.

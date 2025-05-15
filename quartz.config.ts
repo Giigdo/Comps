@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     /* baseUrl: "quartz.jzhao.xyz",*/
-    baseUrl: "https://giigdo.github.io/quartz",
+    baseUrl: "giigdo.github.io/quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

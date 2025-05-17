@@ -6,7 +6,7 @@ The readings here have been chosen to examine the intersection of STEM pedagogic
 
 **Aguilar, D., & Pifarre Turmo, M.** (2019). [[Promoting Social Creativity in Science Education With Digital Technology to Overcome Inequalities]]: A Scoping Review. _Frontiers in Psychology_, _10_. [https://doi.org/10.3389/fpsyg.2019.01474](https://doi.org/10.3389/fpsyg.2019.01474)
 
-**Aikenhead, G. S., & Elliott, D.** (2010). [[20-29 York Study/25 Courses/25.02 Directed Reading Vault/5 The Readings/An Emerging Decolonizing Science Education in Canada|An Emerging Decolonizing Science Education in Canada]]. Canadian Journal of Science, Mathematics and Technology Education, 10(4), 321–338. [https://www.tandfonline.com/doi/abs/10.1080/14926156.2010.524967](https://www.tandfonline.com/doi/abs/10.1080/14926156.2010.524967)
+**Aikenhead, G. S., & Elliott, D.** (2010). [[An Emerging Decolonizing Science Education in Canada]]. Canadian Journal of Science, Mathematics and Technology Education, 10(4), 321–338. [https://www.tandfonline.com/doi/abs/10.1080/14926156.2010.524967](https://www.tandfonline.com/doi/abs/10.1080/14926156.2010.524967)
 
 **Allen Kuyenga, M. C.** (2022). [[Culturally Informed Advanced CS Principles]]: Rigorous, Culturally Responsive and Sustaining Computer Science Education. _Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2_, 1268–1268. [https://doi.org/10.1145/3545947.3573248](https://doi.org/10.1145/3545947.3573248)
 

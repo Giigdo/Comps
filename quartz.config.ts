@@ -9,8 +9,8 @@ import markdownIt from "markdown-it"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Test Site",
-    pageTitleSuffix: "",
+    pageTitle: "Directed Reading Project",
+    pageTitleSuffix: "Giigdo",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

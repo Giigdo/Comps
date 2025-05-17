@@ -1,0 +1,15 @@
+In addition to the [[0. Critical Analyses]] portion of this project, I am attempting to apply HCI theory and Human-Centered Design (HCD) processes towards the development of critically informed concepts for pedagogical technologies (design concepts and prototypes).  
+
+For the sake of effective Knowledge Mobilization (KMb), I am focusing on the Ontario high school curriculum context. Objectives of these critically informed pedagogical technologies will include: (1) to create supports suitable for use with Indigenous Knowledge (IK) and STEM subjects in these school settings, and (2) to support non-Indigenous educators to positively integrate IK into classes.  The following specific touch-points will form the basis of these KMb products which will be in the form of lesson plans for use by teachers:
+
+a.    The Ontario [[Grade 9 Technology]] course ([TAS1O Technology and the Trades](https://www.dcp.edu.gov.on.ca/en/curriculum/technological-education/courses/tas1o))
+
+b.    The Ontario [[Grade 9 Science]] course ([SNC1D de-streamed](https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-science/courses/snc1w))
+
+c.    The Ontario [[Grade 9 Math]] course ([MTH1W De-streamed](https://www.dcp.edu.gov.on.ca/en/curriculum/secondary-mathematics/courses/mth1w))
+
+d.    The Ontario [[Grade 9 Geography]] course ([CGC1W De-streamed](https://www.dcp.edu.gov.on.ca/en/curriculum/canadian-and-world-studies/courses/cgc1w))
+
+The lesson plans developed through this research are designed to integrate Indigenous digital media into educational settings, promoting cultural awareness and digital literacy. These plans are connected to other work in Indigenous education, aiming to support the development of inclusive curricula and pedagogies.
+
+When creating these lesson plans, I am employing a methodology I use for creating project-based learning units. The methodology starts with the project or story, rather than the curriculum expectations. In this approach I am identifying a project or teaching from an Indigenous perspective, such as building a structure or device using Indigenous methods, and then determining which Western curriculum content or skills are connected to it. I aim to subvert the typical approach, which marginalizes Indigenous knowledge to support Western knowledge systems, as noted by Kim in [Neo-colonialism in Our Schools, Kim, 2016](https://mje.mcgill.ca/article/download/9080/7036/29306). By starting with the Indigenous perspective I'll highlight how Indigenous knowledge systems have developed through distinct methodologies that emphasize working with the environment, family, and community. Additionally, I'll demonstrate how Indigenous concepts of land, family, and community permeate areas like business and governance, often in contrast to Western ideas. I believe this will be most evident when exploring geographic processes like mapping, categorizing, and claiming land.

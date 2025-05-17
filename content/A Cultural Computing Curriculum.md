@@ -1,0 +1,21 @@
+
+The research conducted by Davis et. al. looked at the application of a culturally supportive computer science course in a high school in the United States. There was an identified lack of research on semester long instances of courses that seek to implement Culturally Situated Design Tools (CSDTs). The research looks at the transfer of concepts between cultural understanding and how it supports students in learning programming concepts and its further relation to other western academic studies.
+The research process made use of both quantitative and qualitative methods and included review from external evaluators. The study found challenges in maintaining student engagement and integrating cultural aspects into the curriculum. While students learned the computing curriculum faster than in other instances of teaching CS in the high school, students did not value the inclusion of culture in the course. Researchers posit this may have to do with the cultural aspects being isolated at the beginning of the course from the rest of the content instruction.
+Despite positive changes in student confidence regarding programming and developing solutions to problems presented in class, there were limitations in connecting culture with computer science concepts. Researchers feel there is a need for further work to develop methods of teaching computer science that is simultaneously culturally supportive.
+# Key Quotes
+> [!Quote] Quote
+>idea behind [Culturally Situated Design Tools] is that computational thinking is already present in many cultural practices; and thus students can benefit by using tools that allow them to "translate" between indigenous or vernacular knowledge in cultural context, and equivalent concepts in the classroom.
+
+> [!Quote] Quote
+>while results show a negative change in students’ interest in learning about their own culture, students’ were more interested in cultural and artistic practices from other cultures. Consistent with these two positive changes, there was a slight positive change in students’ confidence that they can use cultural art and designs to teach computer programming to people in their community.
+
+# My Thoughts
+  - The process that is described moves back and forth here between Indigenous learning and the traditional learning of a western system. This compartmentalization, which was maintained by the teacher kept the concepts separate from each other. I'm wondering if this is the way it needs to be or if we can work through Indigenous perceptions throughout the course? I don't see a reason why not, except where the teacher is lacking in cultural efficacy. Archibald's method of working through storywork would seem to support this process and I would like to see it tried in a computer science instance.
+  - The inability of the teacher to weave material throughout the course points to the need for professional development for teachers. It could be that they themselves do not see the connection between the cultural aspects and the computing science and therefore compartmentalize them and keep them separate.
+
+# Relation to [[6. Revisioning how we teach CS and digital technologies]]
+  - I would argue that in the context of this study one can see how teacher training is important and that there is a need for support throughout the running of the course in order to help teachers improve. There needs to be a certain amount of direct instructions for teachers in order to properly integrate knowledge on an ongoing bases. If anything the culturally connected materials are the medium for teaching the technical content of the course which might be the skills or specific computational information pieces. There is a need for more attempts and studies like this one to develop a process for educating computer science through Indigenous lenses.
+  - The study demonstrates that teaching Indigenous culture as a package separate from other course elements is suspect in its ability to generate cultural confidence in students. At the same time it shows the use of culture can speed up the process of learning computer concepts. 
+# Links to Other Pages
+  - Current development of the Skins curriculum - now 5.0 https://skins.abtec.org/skins5.0
+  - [The Initiative for Indigenous Futures (IIF)](https://indigenousfutures.net/)

@@ -1,0 +1,19 @@
+Castleton explores how Inuit youth use Facebook to connect with their identity and culture. Inuit youth are using Facebook to discuss traditions, share content, and challenge stereotypes as they reach out to family and friends. The research suggests that technology like Facebook is becoming integral to understanding and expressing identity for Inuit youth. He notes that the culture is dynamic and constantly changing, which online tools like Facebook facilitate. He highlights examples of where youth are sharing practices between each other and deciding how their culture will be carried into the future.
+# Key Quotes
+> [!Quote] Quote
+>the iconic “real” Inuk, the image turns out to be both mythic and mythical—a rigid, out-dated and inaccurate model usually put forward by someone claiming to be an authority … . Yet today even the nature of Inuit qaujimajatuqangit is being challenged by younger Inuit, who may have different notions of what makes a real Inuk. For them a real Inuk must neither be judged by the standards of an earlier era nor be held up as a mythical and misleading model unobtainable today. (p. 154)
+
+> [!Quote] Quote
+>while many observers might have the impression that modern technology works for the destruction of “traditional” social relations and institutions, I would rather dare to take the opposite position in relation to some of the modern means of communication, which enlarge the network spatially as well as socially and make it more efficient (p. 39)
+
+# My Thoughts
+  - We come to know who we are through our interactions with others.  For Indigenous youth, it is the sharing of culture that helps them to develop modern interpretation of what it means to be from their culture. This can be hard in urban settings where youth are surrounded and overwhelmed by dominant culture. Online social network though makes specific places where students can meet with other Indigenous youth regardless of where they live.
+  - As this author and others have notes (See also Hearne and Byrne) social networks and other digital media can be both damaging places and supportive places for Indigenous identity and well being. While they are places for the perpetuation of stereotypes and attacks on identity, they are also places where youth can challenge the stereotypes, share their real experiences with each and reach across distance to collaboratively reflect on what it means to be a part of their community.
+
+# Relation to [[4. Sociotechnical impacts of digital affordances on Indigenous community]]
+  - How the tools are used will dictate if it uplifts or diminishes a culture. The social aspect of the tools and the fact they afford Indigenous youth the ability to  meet others like themselves means it is possible for it to support culture survival and survivance. The tools of social media make it possible to span distance and overcome either physical or cultural isolation depending on where youth are located. 
+  - Many Indigenous cultures identify themselves by their relationships, both familial and community. Any tool that can support ongoing conversations and connection gives people to strengthen bonds. 
+
+# Links to Other Pages
+  - Joanna Hearne. (2017). Native to the Device: Thoughts on Digital Indigenous Studies. _Studies in American Indian Literatures_, _29_(1), 3. [https://doi.org/10.5250/studamerindilite.29.1.0003](https://doi.org/10.5250/studamerindilite.29.1.0003)
+  - Byrne, M. I. (2021, September 25). Read-Only Sacred Spaces: Indigenous Video Games as Space Safe from Vandalism and Theft. _Medium_. [https://meagan-i-byrne.medium.com/read-only-sacred-spaces-indigenous-video-games-as-space-safe-from-vandalism-and-theft-55a0e3e30550](https://meagan-i-byrne.medium.com/read-only-sacred-spaces-indigenous-video-games-as-space-safe-from-vandalism-and-theft-55a0e3e30550)

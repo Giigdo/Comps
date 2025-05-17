@@ -17,5 +17,5 @@ The [[0. Critical Analyses]] and the [[Lesson Plans and Connection to Other Work
 [[Decolonizing Digital Media]]
 [[1 Bibliography Notes and Connection to Outside Works]]
 [[Indigenous Development using AI Tools]]
-[[Connection to Dissertation]]
+[[PublicFacing/Context/Connection to Dissertation]]
 [[Who is speaking?]]

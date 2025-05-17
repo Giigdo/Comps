@@ -25,7 +25,7 @@ The readings here have been chosen to examine the intersection of STEM pedagogic
 **Lachney, M., Bennett, A., Appiah, J., & Eglash, R.** (2016). [[Modeling in ethnocomputing]]: Replacing bi-directional flows with recursive emergence. _Revista Internacional De Pesquisa Em Educação Matemática_, _6_(1), 219–243.  
 [http://funes.uniandes.edu.co/26423/1/Lachney2016Modeling.pdf](http://funes.uniandes.edu.co/26423/1/Lachney2016Modeling.pdf)
 
-**Eglash, R., Bennett, A., Babbitt, W., Lachney, M., Reinhardt, M., & Hammond****‐Sowah, D.** (2020). [[Decolonizing posthumanism]]: Indigenous material agency in generative STEM. _British Journal of Educational Technology_, _51_(4), 1334–1353. [https://doi.org/10.1111/bjet.12963](https://doi.org/10.1111/bjet.12963)
+**Eglash, R., Bennett, A., Babbitt, W., Lachney, M., Reinhardt, M., & Hammond**‐Sowah, D.(2020). [[Decolonizing Posthumanism]]: Indigenous material agency in generative STEM. _British Journal of Educational Technology_, _51_(4), 1334–1353. [https://doi.org/10.1111/bjet.12963](https://doi.org/10.1111/bjet.12963)
 
 **Kim, E.-J. A.** (2016). [[Neo-colonialism in Our Schools]]: Representations of Indigenous Perspectives in Ontario Science Curricula. _McGill Journal of Education_, _50_(1), 119–143. [https://doi.org/10.7202/1036109ar](https://doi.org/10.7202/1036109ar)
 
@@ -35,7 +35,7 @@ The readings here have been chosen to examine the intersection of STEM pedagogic
 
 **Nijdam, E. “Biz.”** (2023). [[Sami-digital storytelling]]: Survivance and revitalization in Indigenous digital games. _New Media & Society_, _25_(11), 3093–3116. [https://doi.org/10.1177/14614448211038902](https://doi.org/10.1177/14614448211038902)
 
-**Shizha, E.** (2007). [[20-29 York Study/25 Courses/25.02 Directed Reading Vault/5 The Readings/Critical Analysis of Problems Encountered in Incorporating Indigenous Knowledge in Science Teaching by Primary School Teachers in Zimbabwe|Critical Analysis of Problems Encountered in Incorporating Indigenous Knowledge in Science Teaching by Primary School Teachers in Zimbabwe]]. Alberta Journal of Educational Research, 53(3). [https://doi.org/10.11575/ajer.v53i3.55295](https://doi.org/10.11575/ajer.v53i3.55295) [https://journalhosting.ucalgary.ca/index.php/ajer/article/view/55295](https://journalhosting.ucalgary.ca/index.php/ajer/article/view/55295)
+**Shizha, E.** (2007). [[Critical Analysis of Problems Encountered in Incorporating Indigenous Knowledge in Science Teaching by Primary School Teachers in Zimbabwe]]. Alberta Journal of Educational Research, 53(3). [https://doi.org/10.11575/ajer.v53i3.55295](https://doi.org/10.11575/ajer.v53i3.55295) [https://journalhosting.ucalgary.ca/index.php/ajer/article/view/55295](https://journalhosting.ucalgary.ca/index.php/ajer/article/view/55295)
 
 **Smith, T.** (2016). [[Make Space for Indigeneity]]: Decolonizing Education. _SELU Research Review Journal_, _1_(2), 49–59. [https://selu.usask.ca/documents/research-and-publications/srrj/SRRJ-1-2-Smith.pdf](https://selu.usask.ca/documents/research-and-publications/srrj/SRRJ-1-2-Smith.pdf)
 

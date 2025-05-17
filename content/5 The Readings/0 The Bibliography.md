@@ -25,7 +25,7 @@ The readings here have been chosen to examine the intersection of STEM pedagogic
 **Lachney, M., Bennett, A., Appiah, J., & Eglash, R.** (2016). [[Modeling in ethnocomputing]]: Replacing bi-directional flows with recursive emergence. _Revista Internacional De Pesquisa Em Educação Matemática_, _6_(1), 219–243.  
 [http://funes.uniandes.edu.co/26423/1/Lachney2016Modeling.pdf](http://funes.uniandes.edu.co/26423/1/Lachney2016Modeling.pdf)
 
-**Eglash, R., Bennett, A., Babbitt, W., Lachney, M., Reinhardt, M., & Hammond**‐Sowah, D.(2020). [[Decolonizing Posthumanism]]: Indigenous material agency in generative STEM. _British Journal of Educational Technology_, _51_(4), 1334–1353. [https://doi.org/10.1111/bjet.12963](https://doi.org/10.1111/bjet.12963)
+**Eglash, R., Bennett, A., Babbitt, W., Lachney, M., Reinhardt, M., & Hammond**‐Sowah, D. (2020). [[Decolonizing posthumanism]]: Indigenous material agency in generative STEM. _British Journal of Educational Technology_, _51_(4), 1334–1353. [https://doi.org/10.1111/bjet.12963](https://doi.org/10.1111/bjet.12963)
 
 **Kim, E.-J. A.** (2016). [[Neo-colonialism in Our Schools]]: Representations of Indigenous Perspectives in Ontario Science Curricula. _McGill Journal of Education_, _50_(1), 119–143. [https://doi.org/10.7202/1036109ar](https://doi.org/10.7202/1036109ar)
 

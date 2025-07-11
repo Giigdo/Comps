@@ -9,7 +9,7 @@ import markdownIt from "markdown-it"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Directed Reading Project",
+    pageTitle: "Comprehensive Exams",
     pageTitleSuffix: "Giigdo",
     enableSPA: true,
     enablePopovers: true,
@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     /* baseUrl: "quartz.jzhao.xyz",*/
-    baseUrl: "giigdo.github.io/quartz",
+    baseUrl: "https://giigdo.github.io/Comps",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

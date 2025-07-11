@@ -1,8 +1,6 @@
 ---
 title: Directed Reading Project
 ---
-Test for update
-
 There is a significant body of work in HCI concerning the design of digital teaching tools and online digital resources to support students learning STEM subjects.  However, despite the amount of prior work in this area, there has been little investigate and/or intentional human-centered technology design/creation to address STEM educational support through a lens of building up Indigenous knowledge connected to STEM subjects. This project is an attempt to critically examine existing scholarship related to HCI approaches in STEM education, with a specific focus on the intersection of: 
 
 (i) approaches that include (or are derived from) Indigenous work and 

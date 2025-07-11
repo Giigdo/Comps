@@ -4,5 +4,5 @@ The word just refers to "that person over there speaking", which is a move away 
 
 There is not a .indigenous or, better yet, a .ojibwe, domain yet - though maybe we should have them- so in the meantime, I’ll work with giigdo.xyz as the name for this site because, really, it is just experiment, along with many others, in decolonizing the internet.
 
-[[index|Directed Reading Project]]
+[[PublicFacing/index|Directed Reading Project]]
 [[Decolonizing Digital Media]]
